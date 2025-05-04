@@ -108,21 +108,24 @@ Berdasarkan pengecekan, dataset books tidak memiliki duplikat data.
 ##### Visualisasi
 Berikut beberapa visualisasi pada dataset books:
 
-![10 Penulis Buku Terbanyak](https://drive.google.com/uc?id=12NfhfFloPn2M_KyYZ08U0-ydmNf0XjFF)
+![10 Penulis Buku Terbanyak](https://github.com/user-attachments/assets/8389042d-1f62-4c94-9bd6-11f6709ff02d)
+
 
 Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 
 - Agatha Christie adalah penulis dengan jumlah buku terbanyak di antara 10 penulis yang ditampilkan, yaitu sebesar 632 buku. Jumlah ini secara signifikan lebih banyak dibandingkan penulis lainnya dalam daftar.
 - Charles Dickens memiliki jumlah buku paling sedikit di antara 10 penulis ini, yaitu sebesar 302 buku.
 
-![Visualisasi 10 Penerbit Terbanyak](https://drive.google.com/uc?id=1YtcE9SqWXv4UnBcEOP-IZkZs2TXNA9KY)
+![Visualisasi 10 Penerbit Terbanyak](https://github.com/user-attachments/assets/bf857766-25a5-45ee-8bd3-532f2d06dfc4)
+
     
 Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 
 - Harlequin adalah penerbit dengan jumlah buku terbanyak di antara 10 penerbit yang ditampilkan, yaitu sebesar 7535 buku. Jumlah ini jauh lebih banyak dibandingkan penerbit lainnya dalam daftar.
 - Penerbit Warner Books memiliki jumlah buku paling sedikit di antara 10 penerbit ini, yaitu sebesar 2727 buku.
 
-![Visualisasi Panjang Judul Buku](https://drive.google.com/uc?id=1ZVYwfUWhHqBeCT_swyPPrEgijFFbyx10)
+![Visualisasi Panjang Judul Buku](https://github.com/user-attachments/assets/b2ee7d4f-f623-4192-83e6-d457887d1f47)
+
     
 Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 
@@ -142,7 +145,8 @@ Berdasarkan pengecekan, dataset ratings tidak memiliki duplikat data.
 ##### Visualisasi
 Berikut beberapa visualisasi pada dataset ratings:
 
-![Distribusi Rating Buku](https://drive.google.com/uc?id=17HkuHbUDdiPLeQ7fa2DkSYnmzWOeevx0)
+![Distribusi Rating Buku](https://github.com/user-attachments/assets/5feea789-41e1-48e0-88eb-d3c59cb1d8ae)
+
 
 Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 
@@ -150,7 +154,8 @@ Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 - Rating 1 memiliki jumlah yang paling sedikit, yaitu sebesar 1770 rating.
 - Distribusi rating tidak merata. Ada konsentrasi besar pada rating 0, diikuti oleh peningkatan jumlah rating hingga nilai 8, dan kemudian sedikit penurunan pada nilai 9 dan 10.
 
-![10 User Paling Aktif Memberi Rating](https://drive.google.com/uc?id=1G1N_f6LQ3K4Hl6sSyMRY7WhZZrcJyrz0)
+![10 User Paling Aktif Memberi Rating](https://github.com/user-attachments/assets/0bfae675-907a-43ac-9497-a2715a04f277)
+
 
 Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 
@@ -158,7 +163,8 @@ Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 - Aktivitas rating menurun secara signifikan setelah user pertama. 
 - User dengan ID 235105 adalah user yang memberikan rating paling sedikit pada grafik di atas, yaitu sebesar 3067.
 
-![Top 10 Buku dengan Rating Terbanyak](https://drive.google.com/uc?id=1Fml_0Mt9RsBLDX8J26jK2KqDhjJMjxx-)
+![Top 10 Buku dengan Rating Terbanyak](https://github.com/user-attachments/assets/17b4322b-8856-41db-a396-e63c062910ce)
+
 
 Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 
@@ -176,7 +182,8 @@ Berdasarkan pengecekan, dataset users tidak memiliki duplikat data.
 ##### Visualisasi
 Berikut beberapa visualisasi pada dataset users:
 
-![Distribusi Umur Pengguna](https://drive.google.com/uc?id=1ba8WOKnYrtjeAHcsvq6nclzUW58jrqqs)
+![Distribusi Umur Pengguna](https://github.com/user-attachments/assets/25752ce7-8553-4ed1-85c5-974eec2fa626)
+
 
 Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 
@@ -185,14 +192,16 @@ Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 - Jumlah pengguna menurun seiring bertambahnya umur setelah rentang 40 tahun. Frekuensi pengguna dengan umur di atas 60 tahun semakin rendah.
 - Terdapat beberapa lonjakan kecil pada umur yang tidak lazim (sekitar 100 sampai dengan 150 tahun). Lonjakan ini kemungkinan merupakan kesalahan input data atau nilai ekstrem yang perlu diselidiki lebih lanjut.
 
-![10 Lokasi dengan Jumlah Pengguna Terbanyak](https://drive.google.com/uc?id=16nrcfADOfMumBSGpZX60g_2HOes8AQ74)
+![10 Lokasi dengan Jumlah Pengguna Terbanyak](https://github.com/user-attachments/assets/d2de2c75-ee47-4db4-bbce-6b72317f682e)
+
 
 Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 
 - London, England, United Kingdom adalah lokasi dengan jumlah pengguna terbanyak, yaitu sebesar 2506 pengguna. Jumlah ini secara signifikan lebih tinggi dibandingkan lokasi lainnya dalam grafik.
 - Vancouver, British Columbia, Canada memiliki jumlah pengguna paling sedikit di antara 10 lokasi teratas, yaitu sebesar 1359 pengguna.
 
-![10 Negara dengan Jumlah Pengguna Terbanyak](https://drive.google.com/uc?id=1Bxxg8WFJSacEPYyhW87-Y-xTRbtOvRfc)
+![10 Negara dengan Jumlah Pengguna Terbanyak](https://github.com/user-attachments/assets/f05cc563-07ad-4405-9aaa-9d5e9d32f13e)
+
 
 Berdasarkan visualisasi di atas, dapat disimpulkan bahwa:
 
